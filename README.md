@@ -5,3 +5,17 @@
 Профессор Мориарти в моем случае опять оказался программистом и его щифр заключается в сдвиге символов на 2 позиции по ASCI таблице
 
 :sparkles: Реализвация программы на 5 баллов: :sparkles:
+
+:white_check_mark: Сам код лежит [здесь]
+
+:white_check_mark: Тестовые файлы лежат [тут]
+
+:white_check_mark:
+
+:white_check_mark:
+
+:white_check_mark:
+
+:white_check_mark:
+
+:white_check_mark:
