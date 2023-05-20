@@ -8,7 +8,7 @@
 
 argv[1] = IP, argv[2] - порт, argv[3] - текст
 
-Реализвация программы на 5 баллов:
+Реализация программы на 5 баллов:
 
 :white_check_mark: код клиента (с комментариями) лежит [здесь](https://github.com/PostRed/OS_IHW3/blob/main/first.c)
 
